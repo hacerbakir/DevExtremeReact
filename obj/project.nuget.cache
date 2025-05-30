@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrcLWTWlRCs=",
+  "success": true,
+  "projectFilePath": "D:\\DevExtreme\\ornek\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hacer.bakir\\.nuget\\packages\\microsoft.typescript.msbuild\\5.8.3\\microsoft.typescript.msbuild.5.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}

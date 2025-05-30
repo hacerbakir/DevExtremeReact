@@ -1,0 +1,60 @@
+﻿@using WebApplication1.Extensions
+@{
+    var path = ViewContext.RouteData.Values["page"]?.ToString();
+    var scriptPath = string.Empty;
+    if (!string.IsNullOrWhiteSpace(path))
+    {
+        var cleanedPath = path.Trim('/');
+        var result = cleanedPath.Replace("/", "").Replace("pageview", "page").ToSnakeCase();
+        scriptPath = $"~/assets/{result}.js";
+    }
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - WebApplication1</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/assets/css/icons/bootstrap-icons.css"/>
+    <link rel="stylesheet" href="~/assets/css/dx.fluent.saas.dark.css"/>
+    <link rel="stylesheet" href="~/assets/css/main.css"/>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css"/>
+    
+</head>
+<body class="dx-viewport dx-theme-fluent dx-theme-fluent-typography dx-color-scheme-saas-dark">
+<div class="wrapper">
+    <header>
+        <div class="container flex-between">
+            <a class="home-logo flex-between" asp-page="/Index" aria-label="Home">
+                <i class="bi bi-heart-fill"></i>
+                <div>Hacer Bakır</div>
+            </a>
+
+            <div class="w-25 d-flex justify-content-between align-content-between">
+                <a class="page-form" asp-page="/data-grid">
+                    Data Grid
+                </a>
+                <a class="page-form" asp-page="/dxform">
+                    Test
+                </a>
+            </div>
+
+        </div>
+
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>footer</footer>
+
+</div>
+
+@if (!string.IsNullOrWhiteSpace(scriptPath))
+{
+    <script src="@scriptPath" asp-append-version="true"></script>
+}
+
+@await RenderSectionAsync("Scripts", false)
+</body>
+</html>

@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\dx.fluent.saas.dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dx.fluent.saas.dark.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\dx.fluent.saas.light.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dx.fluent.saas.light.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-300.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-300.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-300.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-300.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-400.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-400.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-400.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-400.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-500.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-500.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-500.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-500.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-700.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-700.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-700.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\fonts\\Roboto-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Roboto-700.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsfluent.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsfluent.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsfluent.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsfluent.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsfluent.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsfluent.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsmaterial.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsmaterial.ttf"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsmaterial.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsmaterial.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\dxiconsmaterial.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\dxiconsmaterial.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\data-grid.js",
+      "PackagePath": "staticwebassets\\assets\\data-grid.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\data-grid.js.map",
+      "PackagePath": "staticwebassets\\assets\\data-grid.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\index.js",
+      "PackagePath": "staticwebassets\\assets\\index.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\assets\\index.js.map",
+      "PackagePath": "staticwebassets\\assets\\index.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js",
+      "PackagePath": "staticwebassets\\js\\Pages\\index.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js",
+      "PackagePath": "staticwebassets\\js\\add-license.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\js\\global.js",
+      "PackagePath": "staticwebassets\\js\\global.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
