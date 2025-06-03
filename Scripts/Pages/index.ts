@@ -1,6 +1,5 @@
 ﻿import Button, {ClickEvent} from 'devextreme/ui/button';
 
-
 const buttonElement = document.getElementById('button') as HTMLButtonElement;
 if (buttonElement) {
     new Button(buttonElement, {

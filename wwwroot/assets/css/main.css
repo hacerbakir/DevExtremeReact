@@ -31,11 +31,14 @@ header {
 .container {
     width: 85vw;
     margin: 0 auto;
-    background-color: #0c8323;
 }
 
 .home-logo {
     width: 7%;
+}
+
+.header-item{
+    padding-left: 10px;
 }
 
 .flex-between {
