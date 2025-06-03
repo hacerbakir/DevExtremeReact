@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lXIyGTUBzzGyNrOZnlalF4dmLG7mUPu7zq1bXWf88Ro=",
+  "Hash": "yZpu+Arqmll0mS5cnDjHRuag6xTvk28xrKTMi64Ac0Y=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -183,27 +183,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\5b6mca6c3z-myfhya2sm9.gz",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/Pages/index#[.{fingerprint=myfhya2sm9}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "oemg640p62",
-      "Integrity": "kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\7x499v5rjq-8b5520o19g.gz",
@@ -458,6 +437,27 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\gp2isyla2g-mmk1qgyeis.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/global#[.{fingerprint=mmk1qgyeis}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xamj9voiv8",
+      "Integrity": "V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\hhr7ekazbn-vd0ky5xz37.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -605,6 +605,48 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\lfu46sj57r-myfhya2sm9.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/index#[.{fingerprint=myfhya2sm9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oemg640p62",
+      "Integrity": "kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4lubo0ugr-aly120r0l2.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/o_data#[.{fingerprint=aly120r0l2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y0i4xa6jl3",
+      "Integrity": "voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4r3yttr64-f6pbo7ldz7.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -666,6 +708,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\nwih1erti0-flsnd1j2r0.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/add-license#[.{fingerprint=flsnd1j2r0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "r6egbey03o",
+      "Integrity": "LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\o2dkjvg1wj-15znjpzz7s.gz",
@@ -857,6 +920,27 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sprtmm75ge-0hjqjpl5f4.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/data_grid#[.{fingerprint=0hjqjpl5f4}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1sfa12ridh",
+      "Integrity": "YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sqgwndgcdj-o2rseqv7bd.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -897,27 +981,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\tbdc7yoy5t-flsnd1j2r0.gz",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/add-license#[.{fingerprint=flsnd1j2r0}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "r6egbey03o",
-      "Integrity": "LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\ul9usw0pyw-tutx64jgg7.gz",
@@ -983,6 +1046,27 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vbz3t8igoy-p8mn93107x.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/o_data#[.{fingerprint=p8mn93107x}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "krgu3sdf20",
+      "Integrity": "YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vygf4sawko-kz6z0hmg4e.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1025,6 +1109,27 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\woh9jd2fda-rf7yopiz9k.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/o_data.js#[.{fingerprint=rf7yopiz9k}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "txmu30w1lc",
+      "Integrity": "Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js.map"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xdatplb53k-4foqdh5jsb.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1065,27 +1170,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xy5uax1ew2-mmk1qgyeis.gz",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/global#[.{fingerprint=mmk1qgyeis}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\js\\global.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "xamj9voiv8",
-      "Integrity": "V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\js\\global.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\y00f2krte3-0c1d32ph4u.gz",
@@ -1172,27 +1256,6 @@
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\za766m9rdw-0hjqjpl5f4.gz",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/Pages/data_grid#[.{fingerprint=0hjqjpl5f4}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\data_grid.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "1sfa12ridh",
-      "Integrity": "YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\data_grid.js"
-    },
-    {
       "Identity": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\zqtkuh7aeh-y440rv89em.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1212,6 +1275,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/add-license#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "flsnd1j2r0",
+      "Integrity": "g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\add-license.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\dx.fluent.saas.dark.css",
@@ -1823,6 +1907,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\data_grid.js.map"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/global#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmk1qgyeis",
+      "Integrity": "rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\global.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\index.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1865,6 +1970,111 @@
       "OriginalItemSpec": "wwwroot\\assets\\index.js.map"
     },
     {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/o_data#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8mn93107x",
+      "Integrity": "p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\o_data.js"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/o_data.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rf7yopiz9k",
+      "Integrity": "2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\o_data.js.map"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/data_grid#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0hjqjpl5f4",
+      "Integrity": "7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Pages\\data_grid.js"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "myfhya2sm9",
+      "Integrity": "8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Pages\\index.js"
+    },
+    {
+      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "assets/Pages/o_data#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aly120r0l2",
+      "Integrity": "XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Pages\\o_data.js"
+    },
+    {
       "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -1884,90 +2094,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/add-license#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "flsnd1j2r0",
-      "Integrity": "g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\add-license.js"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\js\\global.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/global#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mmk1qgyeis",
-      "Integrity": "rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\global.js"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\data_grid.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/Pages/data_grid#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0hjqjpl5f4",
-      "Integrity": "7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Pages\\data_grid.js"
-    },
-    {
-      "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\DevExtreme\\ornek\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/Pages/index#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "myfhya2sm9",
-      "Integrity": "8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Pages\\index.js"
     },
     {
       "Identity": "E:\\DevExtreme\\ornek\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
@@ -2895,6 +3021,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "assets/add-license.flsnd1j2r0.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\nwih1erti0-flsnd1j2r0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flsnd1j2r0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/add-license.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/add-license.flsnd1j2r0.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flsnd1j2r0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/add-license.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/add-license.flsnd1j2r0.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\nwih1erti0-flsnd1j2r0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "flsnd1j2r0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/add-license.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/add-license.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\nwih1erti0-flsnd1j2r0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/add-license.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/add-license.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\nwih1erti0-flsnd1j2r0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo="
+        }
+      ]
+    },
     {
       "Route": "assets/css/dx.fluent.saas.dark.css",
       "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\2r0wggk5pk-nohd58ho4g.gz",
@@ -6570,6 +6994,304 @@
       ]
     },
     {
+      "Route": "assets/global.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\gp2isyla2g-mmk1qgyeis.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.022222222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/global.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/global.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\gp2isyla2g-mmk1qgyeis.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/global.mmk1qgyeis.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\gp2isyla2g-mmk1qgyeis.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.022222222222"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmk1qgyeis"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/global.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/global.mmk1qgyeis.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmk1qgyeis"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/global.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/global.mmk1qgyeis.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\gp2isyla2g-mmk1qgyeis.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmk1qgyeis"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/global.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4="
+        }
+      ]
+    },
+    {
       "Route": "assets/index.4foqdh5jsb.js",
       "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xdatplb53k-4foqdh5jsb.gz",
       "Selectors": [
@@ -7166,6 +7888,1496 @@
       ]
     },
     {
+      "Route": "assets/o_data.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vbz3t8igoy-p8mn93107x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001090708"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "916835"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6151357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vbz3t8igoy-p8mn93107x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "916835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.map",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\woh9jd2fda-rf7yopiz9k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001075699"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.map",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5775361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.map.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\woh9jd2fda-rf7yopiz9k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.rf7yopiz9k.map",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\woh9jd2fda-rf7yopiz9k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001075699"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf7yopiz9k"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.rf7yopiz9k.map",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5775361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf7yopiz9k"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2anbtmg3gdj8Tbn4OVjpFKYXG3C1FjVM8w3P8y9tVzM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.js.rf7yopiz9k.map.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\woh9jd2fda-rf7yopiz9k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf7yopiz9k"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xw2I4xq00jeGMJR/JgB8+vLD0pxgYYdcqPRmioxwzoA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.p8mn93107x.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vbz3t8igoy-p8mn93107x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001090708"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "916835"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8mn93107x"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.p8mn93107x.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\o_data.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6151357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8mn93107x"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p4o+AtWxGDfsxXoIfib8AOl0NND7MebViJmOnP+EHpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/o_data.p8mn93107x.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\vbz3t8igoy-p8mn93107x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "916835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:58:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8mn93107x"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/o_data.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YBMYWdi+GGwWwMTbeJDiCpxBNOXyn73kgbxPV5WQq8g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.0hjqjpl5f4.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sprtmm75ge-0hjqjpl5f4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hjqjpl5f4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/data_grid.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.0hjqjpl5f4.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hjqjpl5f4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/data_grid.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.0hjqjpl5f4.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sprtmm75ge-0hjqjpl5f4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hjqjpl5f4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/data_grid.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sprtmm75ge-0hjqjpl5f4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/data_grid.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\sprtmm75ge-0hjqjpl5f4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\lfu46sj57r-myfhya2sm9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004926108374"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\lfu46sj57r-myfhya2sm9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.myfhya2sm9.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\lfu46sj57r-myfhya2sm9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004926108374"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myfhya2sm9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.myfhya2sm9.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myfhya2sm9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/index.myfhya2sm9.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\lfu46sj57r-myfhya2sm9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myfhya2sm9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/index.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.aly120r0l2.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4lubo0ugr-aly120r0l2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001757469244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aly120r0l2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/o_data.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.aly120r0l2.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aly120r0l2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/o_data.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.aly120r0l2.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4lubo0ugr-aly120r0l2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aly120r0l2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Pages/o_data.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4lubo0ugr-aly120r0l2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001757469244"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.js",
+      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 11:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XleYOQp6esIV8C9GGzseaPTcCyVP+zIadgCUsM1yzdE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Pages/o_data.js.gz",
+      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\m4lubo0ugr-aly120r0l2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 12:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-voIKEAVm++LYNmuUZvBQMEl9n4otOj6beQBsiTMIiJU="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\ixpe6lrf0h-61n19gt1b8.gz",
       "Selectors": [
@@ -7460,1198 +9672,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.flsnd1j2r0.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\tbdc7yoy5t-flsnd1j2r0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003086419753"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "323"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "flsnd1j2r0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/add-license.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.flsnd1j2r0.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "flsnd1j2r0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/add-license.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.flsnd1j2r0.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\tbdc7yoy5t-flsnd1j2r0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "323"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "flsnd1j2r0"
-        },
-        {
-          "Name": "label",
-          "Value": "js/add-license.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\tbdc7yoy5t-flsnd1j2r0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003086419753"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "323"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\add-license.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3E+hhOYecldyGw5UfWJedIMRPWt11C1brvkEpQik8s="
-        }
-      ]
-    },
-    {
-      "Route": "js/add-license.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\tbdc7yoy5t-flsnd1j2r0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "323"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LVFC+Sg22GOl2oLQeMvdzFwF1LW6IR+9zxtHJcz6WKo="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xy5uax1ew2-mmk1qgyeis.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.022222222222"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\global.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xy5uax1ew2-mmk1qgyeis.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.mmk1qgyeis.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xy5uax1ew2-mmk1qgyeis.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.022222222222"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mmk1qgyeis"
-        },
-        {
-          "Name": "label",
-          "Value": "js/global.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.mmk1qgyeis.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\global.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mmk1qgyeis"
-        },
-        {
-          "Name": "label",
-          "Value": "js/global.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rliPdhIt+Uh1hqzOUX9CmdeD56WET+NPwbt+tpUjiOA="
-        }
-      ]
-    },
-    {
-      "Route": "js/global.mmk1qgyeis.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\xy5uax1ew2-mmk1qgyeis.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mmk1qgyeis"
-        },
-        {
-          "Name": "label",
-          "Value": "js/global.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-V4P4g1h6G8qBhlGb5jFKQZoVNPKUx7RrETOdD95v0K4="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.0hjqjpl5f4.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\za766m9rdw-0hjqjpl5f4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004587155963"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0hjqjpl5f4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/data_grid.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.0hjqjpl5f4.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\data_grid.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0hjqjpl5f4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/data_grid.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.0hjqjpl5f4.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\za766m9rdw-0hjqjpl5f4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0hjqjpl5f4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/data_grid.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\za766m9rdw-0hjqjpl5f4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004587155963"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\data_grid.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "296"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7JOpxs84MfSfHKDMcPWNLcrbY8i3E8GpbJBtKhR9KUE="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/data_grid.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\za766m9rdw-0hjqjpl5f4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YYcuRP28N5NxcsB6o4IiSKRHW2q9sXQOhBxqaFiygbg="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\5b6mca6c3z-myfhya2sm9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004926108374"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "313"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\5b6mca6c3z-myfhya2sm9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.myfhya2sm9.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\5b6mca6c3z-myfhya2sm9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004926108374"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "myfhya2sm9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.myfhya2sm9.js",
-      "AssetFile": "E:\\DevExtreme\\ornek\\wwwroot\\js\\Pages\\index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "313"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 12:19:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "myfhya2sm9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8qpalR8HoazTB7MW60B2rGi/ZQKAiSXJTOC7ZBwl40E="
-        }
-      ]
-    },
-    {
-      "Route": "js/Pages/index.myfhya2sm9.js.gz",
-      "AssetFile": "E:\\DevExtreme\\ornek\\obj\\Debug\\net9.0\\compressed\\5b6mca6c3z-myfhya2sm9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 08:21:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "myfhya2sm9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Pages/index.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kJSNuUrNZ6SRGo7wH93QQsnN+ADPihF3Z3NKP0qXkJQ="
         }
       ]
     },
