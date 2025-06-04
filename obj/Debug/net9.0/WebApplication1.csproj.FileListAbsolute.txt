@@ -583,7 +583,6 @@ E:\DevExtreme\ornek\obj\Debug\net9.0\scopedcss\bundle\WebApplication1.styles.css
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\2r0wggk5pk-nohd58ho4g.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\md3xw7jdgy-po7824580p.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\y00f2krte3-0c1d32ph4u.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\a4wetbntrg-aok9noij8j.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\sqgwndgcdj-o2rseqv7bd.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\d0l3a0zup6-4eexebrd78.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\xdatplb53k-4foqdh5jsb.gz
@@ -648,10 +647,14 @@ E:\DevExtreme\ornek\obj\Debug\net9.0\refint\WebApplication1.dll
 E:\DevExtreme\ornek\obj\Debug\net9.0\WebApplication1.pdb
 E:\DevExtreme\ornek\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 E:\DevExtreme\ornek\obj\Debug\net9.0\ref\WebApplication1.dll
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\vbz3t8igoy-382o08qzes.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\woh9jd2fda-p9awynr22r.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\pbih24yeoq-xflg9rt829.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\mbmkuhwwcr-k4bw8yidyp.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\nwih1erti0-flsnd1j2r0.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\gp2isyla2g-mmk1qgyeis.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\vbz3t8igoy-p8mn93107x.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\woh9jd2fda-rf7yopiz9k.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\5okrelctpi-iksv8s1f7i.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\sprtmm75ge-0hjqjpl5f4.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\lfu46sj57r-myfhya2sm9.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\m4lubo0ugr-aly120r0l2.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\m4lubo0ugr-utq87sxhsy.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\a4wetbntrg-6y2x737uq0.gz

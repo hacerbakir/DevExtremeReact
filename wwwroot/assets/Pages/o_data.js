@@ -18,6 +18,7 @@ if ($odata) {
                 'Product_Sale_Price',
                 'Product_Retail_Price',
                 'Product_Current_Inventory',
+                'Product_Image',
             ],
             filter: ['Product_Current_Inventory', '>', 0],
         },
@@ -48,7 +49,7 @@ if ($odata) {
                 dataField: 'Product_Image',
                 cellTemplate(container, options) {
                     const img = document.createElement('img');
-                    img.src = options.data.image;
+                    img.src = `data:image/jpeg;base64,${options.data.Product_Image}`;
                     img.style.width = '60px';
                     img.style.height = 'auto';
                     container.appendChild(img);
