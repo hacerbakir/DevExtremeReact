@@ -649,12 +649,9 @@ E:\DevExtreme\ornek\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 E:\DevExtreme\ornek\obj\Debug\net9.0\ref\WebApplication1.dll
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\vbz3t8igoy-382o08qzes.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\woh9jd2fda-p9awynr22r.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\pbih24yeoq-xflg9rt829.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\mbmkuhwwcr-k4bw8yidyp.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\nwih1erti0-flsnd1j2r0.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\gp2isyla2g-mmk1qgyeis.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\5okrelctpi-iksv8s1f7i.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\sprtmm75ge-0hjqjpl5f4.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\lfu46sj57r-myfhya2sm9.gz
-E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\m4lubo0ugr-utq87sxhsy.gz
 E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\a4wetbntrg-6y2x737uq0.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\pbih24yeoq-r2jwzbcg87.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\mbmkuhwwcr-t8bt6wyeo3.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\cxtyodgwov-anxtmr9mug.gz
+E:\DevExtreme\ornek\obj\Debug\net9.0\compressed\o9wll8qf52-j0sshmil8e.gz
+E:\DevExtreme\ornek\bin\Debug\net9.0\package-lock.json

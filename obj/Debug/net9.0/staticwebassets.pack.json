@@ -1,26 +1,6 @@
 {
   "Files": [
     {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\custom_store.js",
-      "PackagePath": "staticwebassets\\assets\\Pages\\custom_store.js"
-    },
-    {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\data_grid.js",
-      "PackagePath": "staticwebassets\\assets\\Pages\\data_grid.js"
-    },
-    {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\index.js",
-      "PackagePath": "staticwebassets\\assets\\Pages\\index.js"
-    },
-    {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\Pages\\o_data.js",
-      "PackagePath": "staticwebassets\\assets\\Pages\\o_data.js"
-    },
-    {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\add-license.js",
-      "PackagePath": "staticwebassets\\assets\\add-license.js"
-    },
-    {
       "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\css\\dx.fluent.saas.dark.css",
       "PackagePath": "staticwebassets\\assets\\css\\dx.fluent.saas.dark.css"
     },
@@ -137,16 +117,20 @@
       "PackagePath": "staticwebassets\\assets\\custom_store.js.map"
     },
     {
+      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\data_edit.js",
+      "PackagePath": "staticwebassets\\assets\\data_edit.js"
+    },
+    {
+      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\data_edit.js.map",
+      "PackagePath": "staticwebassets\\assets\\data_edit.js.map"
+    },
+    {
       "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\data_grid.js",
       "PackagePath": "staticwebassets\\assets\\data_grid.js"
     },
     {
       "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\data_grid.js.map",
       "PackagePath": "staticwebassets\\assets\\data_grid.js.map"
-    },
-    {
-      "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\global.js",
-      "PackagePath": "staticwebassets\\assets\\global.js"
     },
     {
       "Id": "E:\\DevExtreme\\ornek\\wwwroot\\assets\\index.js",

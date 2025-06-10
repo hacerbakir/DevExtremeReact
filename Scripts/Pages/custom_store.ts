@@ -1,7 +1,6 @@
 ﻿import CustomStore from "devextreme/data/custom_store";
 import DataGrid from "devextreme/ui/data_grid";
 
-
 const $CustomStore = document.getElementById('custom-store') as HTMLElement;
 
 function isNotEmpty(value: string | undefined | null) {
@@ -11,7 +10,6 @@ function isNotEmpty(value: string | undefined | null) {
 function getOrderDay(rowData: any) {
     return (new Date(rowData.OrderDate)).getDay();
 }
-
 
 const store = new CustomStore({
     key: 'OrderNumber',
